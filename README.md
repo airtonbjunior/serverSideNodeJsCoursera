@@ -1,5 +1,7 @@
 # Server Side NodeJS
 
+[Link to Coursera] (https://www.coursera.org/learn/server-side-development/home)
+
 TODO: 
 * Describe more here (Coursera, Express, morgan, etc).
 * Write the links here.
